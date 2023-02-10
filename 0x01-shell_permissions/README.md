@@ -1,1 +1,1 @@
-shell_permission 0
+who
